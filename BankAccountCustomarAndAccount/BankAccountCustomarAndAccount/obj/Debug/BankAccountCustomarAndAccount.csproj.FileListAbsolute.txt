@@ -1,0 +1,9 @@
+G:\My Made Program\BankAccountCustomarAndAccount\BankAccountCustomarAndAccount\bin\Debug\BankAccountCustomarAndAccount.exe.config
+G:\My Made Program\BankAccountCustomarAndAccount\BankAccountCustomarAndAccount\bin\Debug\BankAccountCustomarAndAccount.exe
+G:\My Made Program\BankAccountCustomarAndAccount\BankAccountCustomarAndAccount\bin\Debug\BankAccountCustomarAndAccount.pdb
+G:\My Made Program\BankAccountCustomarAndAccount\BankAccountCustomarAndAccount\obj\Debug\BankAccountCustomarAndAccount.csprojResolveAssemblyReference.cache
+G:\My Made Program\BankAccountCustomarAndAccount\BankAccountCustomarAndAccount\obj\Debug\BankAccountCustomarAndAccount.Customar_And_AccoundUI.resources
+G:\My Made Program\BankAccountCustomarAndAccount\BankAccountCustomarAndAccount\obj\Debug\BankAccountCustomarAndAccount.Properties.Resources.resources
+G:\My Made Program\BankAccountCustomarAndAccount\BankAccountCustomarAndAccount\obj\Debug\BankAccountCustomarAndAccount.csproj.GenerateResource.Cache
+G:\My Made Program\BankAccountCustomarAndAccount\BankAccountCustomarAndAccount\obj\Debug\BankAccountCustomarAndAccount.exe
+G:\My Made Program\BankAccountCustomarAndAccount\BankAccountCustomarAndAccount\obj\Debug\BankAccountCustomarAndAccount.pdb
